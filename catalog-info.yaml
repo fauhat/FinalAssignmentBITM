@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "tutorial"
+  name: "Assignment"
 spec:
   type: service
   owner: user:guest
